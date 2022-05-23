@@ -1,0 +1,32 @@
+site_name: 'CoderDojo TC XX'
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Glossary: menu-1/lesson-02.md
+  - Contact: contact.md
+
+site_description: 'Mkdocs Demo.'
+site_author: 'Dan McCreary'
+repo_name: 'GitHub Repo'
+repo_url: 'https://github.com/dmccreary/mkdocs-demo'
+edit_uri: 'blob/master/docs'
+theme:
+  name: material
+  palette:
+    primary: 'amber'
+    accent: 'amber'
+  feature:
+    tabs: true
+  custom_dir: 'theme'
+  include_sidebar: true
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+plugins:
+    - search
+markdown_extensions:
+  - codehilite
