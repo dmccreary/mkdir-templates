@@ -2,7 +2,7 @@ site_name: 'CoderDojo TC XX'
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
-  - Glossary: menu-1/lesson-02.md
+  - Glossary: glossary.md
   - Contact: contact.md
 
 site_description: 'Mkdocs Demo.'
