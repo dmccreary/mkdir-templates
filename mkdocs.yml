@@ -1,11 +1,12 @@
-site_name: 'CoderDojo TC XX'
+site_name: 'Mkdocs Material Theme Demo'
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
+  - Contributing: contributing.md
   - Glossary: glossary.md
   - Contact: contact.md
 
-site_description: 'Mkdocs Demo.'
+site_description: 'Mkdocs Material Theme Demo'
 site_author: 'Dan McCreary'
 repo_name: 'GitHub Repo'
 repo_url: 'https://github.com/dmccreary/mkdocs-demo'
@@ -13,8 +14,8 @@ edit_uri: 'blob/master/docs'
 theme:
   name: material
   palette:
-    primary: 'amber'
-    accent: 'amber'
+    primary: 'blue'
+    accent: 'orange'
   feature:
     tabs: true
   custom_dir: 'theme'

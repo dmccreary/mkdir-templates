@@ -1,8 +1,8 @@
 # Mkdocs Demo
 
-This is a demonstration of how to use mkdocs.
+This is a demonstration of how to use [mkdocs](glossary.md#mkdocs).
 
-We use the material theme.
+We use the [material](glossary#material) theme.
 
 
 
